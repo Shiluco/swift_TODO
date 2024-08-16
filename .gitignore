@@ -1,0 +1,9 @@
+# Xcode specific files
+*.xcuserdata
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+DerivedData/
+
+.DS_Store
