@@ -192,26 +192,26 @@
 		919FCD8C2C6F52F7008BB62C /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				919FCD8E2C6F5312008BB62C /* View */,
-				919FCD8D2C6F5302008BB62C /* ViewModel */,
+				919FCD8E2C6F5312008BB62C /* ViewModel */,
+				919FCD8D2C6F5302008BB62C /* View */,
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		919FCD8D2C6F5302008BB62C /* ViewModel */ = {
+		919FCD8D2C6F5302008BB62C /* View */ = {
 			isa = PBXGroup;
 			children = (
 				919FCD912C6F535A008BB62C /* TodoListView.swift */,
 			);
-			path = ViewModel;
+			path = View;
 			sourceTree = "<group>";
 		};
-		919FCD8E2C6F5312008BB62C /* View */ = {
+		919FCD8E2C6F5312008BB62C /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 				919FCD8F2C6F5338008BB62C /* TodoListViewModel.swift */,
 			);
-			path = View;
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		919FCD932C6F53DC008BB62C /* Entities */ = {
